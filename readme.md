@@ -8,4 +8,5 @@
       - When the player chose not to continue with the turn, the score will be saved to the Player current score and the Turn End.
       - When the Player rolled a 1, all of the player score during the turn will revert to 0 and the Turn End.
    3. The Game will end when one of the Players reach the Maximum Point of 50 and all of the Players current Turn End.
-4. This code project is a simple practice and an example of a Python implementation is using the code to create a simple game.
+
+This code project is a simple practice and an example of a Python implementation is using the code to create a simple game.
